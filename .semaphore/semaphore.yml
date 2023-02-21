@@ -68,3 +68,5 @@ promotions:
       - result: passed
         branch:
           - master
+    auto_promote:
+      when: branch = 'master' AND result = 'passed'
