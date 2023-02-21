@@ -19,7 +19,8 @@ blocks:
             - npm install
             - cache store
   - name: Run linter
-    dependencies: []
+    dependencies:
+      - Install dependencies
     task:
       prologue:
         commands:
