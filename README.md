@@ -1,4 +1,3 @@
-![CI status](https://semaphore-demos.semaphoreci.com/badges/semaphore-demo-react-native.svg)
 
 # Semaphore demo CI/CD pipeline using React Native
 
